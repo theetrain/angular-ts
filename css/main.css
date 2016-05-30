@@ -1,0 +1,19 @@
+html,
+body,
+div,
+ul,
+li,
+ol,
+h1,
+p {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: #666;
+}
+.wrapper {
+  margin: 1em 2em;
+  background-color: #ccc;
+}
